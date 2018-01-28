@@ -34,4 +34,4 @@ export default class CryptoQuery extends Component {
 }
 
 // skip this line if using Create React Native App
-AppRegistry.registerComponent('AwesomeProject', () => PizzaTranslator);
+AppRegistry.registerComponent('AwesomeProject', () => CryptoQuery);
